@@ -221,5 +221,4 @@ Without an available LLM configuration, the application can use its rules-based 
 GitHub: https://github.com/shwetash77
 
 ---
-
 *This project demonstrates REST API development, authentication, database integration, automated testing, lead prioritization, and cloud deployment.*
